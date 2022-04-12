@@ -1,2 +1,2 @@
-# Theo-L-project-3
- Project for Unit 3 Treehouse
+# Responsive Registration Form
+A responsive, mobile-first registration form using various HTML form elemnets. 
